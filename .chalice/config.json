@@ -1,0 +1,13 @@
+{
+  "app_name":  "Admin_Jobs",
+  "lambda_memory_size": 256,
+  "lambda_timeout": 30,
+  "xray": true,
+  "log_retention_days": 31,
+  "tags": {
+    "Project": "Serverless Admin Jobs",
+    "Version": "0.2",
+    "Comments": "Build on cloud9 IDE",
+    "Architecture": "AMD64"
+  }
+}
