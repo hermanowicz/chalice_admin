@@ -3,5 +3,6 @@
 ### To deploy run
 
 ```bash
-chalice dev
+pipenv requirements >> requirements.txt
+chalice deploy
 ```
